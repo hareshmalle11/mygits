@@ -20,7 +20,7 @@ pipeline {
         }
         stage('Deploy') {  
             steps {
-                echo 'Deploying the application...'
+                echo 'DeployinUIWGDIQLg the application...'
             }
         }
     }
